@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IEvangelist.AspNetCore.Optimization/.vs/restore.dg
+/IEvangelist.AspNetCore.Optimization/.vs/IEvangelist.AspNetCore.Optimization/v14/.suo
+/IEvangelist.AspNetCore.Optimization/.vs/IEvangelist.AspNetCore.Optimization/v14
+/IEvangelist.AspNetCore.Optimization/.vs/config/applicationhost.config
+/IEvangelist.AspNetCore.Optimization/.vs/config
+/IEvangelist.AspNetCore.Optimization/.vs
+/IEvangelist.AspNetCore.Optimization/src/IEvangelist.AspNetCore.Optimization/bin/Debug/netcoreapp1.1
+/IEvangelist.AspNetCore.Optimization/src/IEvangelist.AspNetCore.Optimization/obj/Debug/netcoreapp1.1
+*.user
+/IEvangelist.AspNetCore.Optimization/src/IEvangelist.AspNetCore.Optimization/project.lock.json
